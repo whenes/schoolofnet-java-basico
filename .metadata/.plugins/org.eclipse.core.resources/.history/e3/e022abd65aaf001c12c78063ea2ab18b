@@ -1,0 +1,17 @@
+package com.schoolofnet.learning;
+
+import java.util.Scanner;
+
+public class OpMethod {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		Integer num1 = 1;
+		Integer num2 = 2;
+		
+		System.out.println("Number one: ");
+		System.out.println("Number two: ");
+		Integer result = a + b;
+		System.out.println(result);
+	}
+}

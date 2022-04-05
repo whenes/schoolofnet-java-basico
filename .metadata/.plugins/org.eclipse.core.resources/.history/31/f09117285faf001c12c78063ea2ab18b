@@ -1,0 +1,12 @@
+package com.schoolofnet.learning;
+
+public class OpMethodCond2 {
+	public static void main(String[] args) {
+		Integer day = 1;
+		switch (day) {
+			case 1:
+				System.out.println("Segunda-feira");
+				break;
+		}
+	}
+}

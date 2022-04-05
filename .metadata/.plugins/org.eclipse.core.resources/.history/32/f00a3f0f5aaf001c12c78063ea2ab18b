@@ -1,0 +1,11 @@
+package com.schoolofnet.learning;
+
+public class OpMethod {
+
+	public static void main(String[] args) {
+		Integer a = 1;
+		Integer b = 3;
+		Integer result = a + b;
+		System.out.println(result);
+	}
+}

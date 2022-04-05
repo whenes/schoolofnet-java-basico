@@ -1,0 +1,7 @@
+package com.schoolofnet.learning;
+
+public class OpMethodCond2 {
+	public static void main(String[] args) {
+		
+	}
+}
